@@ -22,7 +22,7 @@ Estructura de nuestro proyecto final de Algorítmica I.
     * [Nuestros asesores digitales](#asesores-digitales)
 
 ## Menu Login
-Es lo primero que se muestra al iniciar el programa, dispone únicamente de 2 opciones principales [crear una cuenta](#crear-una-cuenta) e [iniciar sesion](#inicio-de-sesión). En el código, esta asociado a la tabla de usuarios de la base de datos de MySql del proyecto.
+Es lo primero que se muestra al iniciar el programa, dispone únicamente de 2 opciones principales [crear una cuenta](#crear-una-cuenta) e [iniciar sesion](#inicio-de-sesión). En el código, esta asociado a la tabla de usuarios de la base de datos de .csv del proyecto.
 
 ### Crear una cuenta
 
@@ -67,6 +67,24 @@ Muestra la cantidad de dinero disponible en la tarjeta de débito registrada del
 ---
 
 Muestra la cantidad de puntos disponibles en la cartera digital para realizar descuentos con cada cancelación de una deuda del usuario.
+
+#### Mostrar saldo
+
+Se muestra el saldo ahorrado dentro de la cartera digital.
+
+#### Canjear saldo
+
+Una vez que el deudor finalice de pagar la deuda completa, esta opción se activará mostrando opciones de productos, de lo contrario, se mostrará un mensaje con texto "Opción no disponible. Se activará una vez que termine de cancelar la deuda completa."
+
+La lista de productos en una tabla.
+
+| Producto | Precio | Proveedor | Descripción |
+|---|---|---|---|
+|P1 |S/. 210.00| TOTTUS | [Descipción] |
+|P2|S/. 175.23| METRO | [Descripción] |
+|...|...|...|...|
+
+Una vez que el cliente haya elegido el producto, se le solicitará su dirección, numero de celular, DNI. Para realizar envío a domicilio. Se le cobrará un pequeño monto por envío.
 
 ### Administrar deudas
 
