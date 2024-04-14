@@ -74,7 +74,7 @@ Se muestra el saldo ahorrado dentro de la cartera digital.
 
 #### Canjear saldo
 
-Una vez que el deudor finalice de pagar la deuda completa, esta opción se activará mostrando opciones de productos, de lo contrario, se mostrará un mensaje con texto "Opción no disponible. Se activará una vez que termine de cancelar la deuda completa."
+Una vez que el deudor finalice de pagar la deuda completa, esta opción se activará mostrando opciones de productos, de lo contrario, se mostrará un mensaje con texto "Opción no disponible". Se activará una vez que termine de cancelar la deuda completa.
 
 La lista de productos en una tabla.
 
