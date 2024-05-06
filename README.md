@@ -80,7 +80,7 @@ La lista de productos en una tabla.
 
 | Producto | Precio | Proveedor | Descripción |
 |---|---|---|---|
-|P1 |S/. 210.00| TOTTUS | [Descipción] |
+|P1 |S/. 210.00| TOTTUS | [Descripción] |
 |P2|S/. 175.23| METRO | [Descripción] |
 |...|...|...|...|
 
