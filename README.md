@@ -38,9 +38,8 @@ Es necesario tambien asociar los datos de una tarjeta de débito válida, para e
 
 5. ***Número de tarjeta***
 6. <strong style="color: #f00">CVV</strong>
-7. ***CVV***
-8. ***Fecha de vencimiento***
-9. ***Confirmación por correo electrónico***
+7. ***Fecha de vencimiento***
+8. ***Confirmación por correo electrónico***
 
 Finalmente, se le pedirá al usuario crear una **clave digital** para los inicios de sesión posteriores.
 
