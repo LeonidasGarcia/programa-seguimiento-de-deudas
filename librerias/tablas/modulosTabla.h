@@ -1,7 +1,7 @@
 #ifndef MODULOSTABLA_H
 #define MODULOSTABLA_H
 #include "modulosGenerales.h"
-#include "modulosControlCSV.h"
+#include "../csv/modulosControlCSV.h"
 #include <fstream>
 #include <sstream>
 #include <string>
