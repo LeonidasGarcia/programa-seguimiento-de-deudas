@@ -10,4 +10,5 @@ int main () {
     system("cls");
     vector <string> USUARIO = login();
     menuPrincipal("datos/csvDatosDeuda/DetalleDeudas.csv", USUARIO);
+    system("cls");
 }

@@ -6,62 +6,62 @@ Tarjeta Asociada;ID de deuda;Producto;Importe Solicitado;Institucion;Cuota;Durac
 0647289877134017;ITK96;Tarjeta de credito;2000;Banco A;184.56;11 meses;27/01/2024;27/12/2024;27;3%;Tarjeta de credito para gastos de emergencia
 0647289877134017;RQ23G;Prestamo;600;Banco A;26.05;24 meses;4/12/2022;4/12/2024;4;4%;Prestamo estudiantil
 0647289877134017;7JRQ6;Prestamo;9000;Banco B;203.13;48 meses;14/08/2020;14/08/2024;14;4%;Prestamo para inversion en bienes raices
-1075641043995970;O1XH6;Prestamo;8300;Banco A;187.36;48 meses;1/05/2024;1/05/2028;4;4%;Prestamo para inversion en bienes raices
-1075641043995970;V1A3I;Prestamo;1500;Banco A;33.86;48 meses;11/11/2023;11/11/2027;6;4%;Prestamo bancario para inversion en microempresa
-1075641043995970;1TXI7;Prestamo;2000;Banco B;59.04;36 meses;17/07/2021;17/07/2024;15;4%;Prestamo para remodelacion del hogar
+0107564104399597;O1XH6;Prestamo;8300;Banco A;187.43;48 meses;1/05/2024;04/05/2028;4;4%;Prestamo para inversion en bienes raices
+0107564104399597;V1A3I;Prestamo;1500;Banco A;34.62;48 meses;11/11/2023;08/11/2027;6;4%;Prestamo bancario para inversion en microempresa
+0107564104399597;1TXI7;Prestamo;2000;Banco B;60.82;36 meses;17/07/2021;15/07/2024;15;4%;Prestamo para remodelacion del hogar
 1472361563163680;TSB55;Tarjeta de credito;550;Banco B;56;10 meses;2/02/2024;2/12/2024;2;4%;Tarjeta de credito para compras en linea
 1472361563163680;L9U8Q;Tarjeta de credito;1500;Banco B;152.07;10 meses;4/01/2024;4/10/2024;5;3%;Tarjeta de credito para gastos de viaje
-1601887811361610;IWK37;Prestamo;700;Banco A;20.66;36 meses;9/03/2023;9/03/2026;5;4%;Prestamo estudiantil
-1601887811361610;II6H2;Prestamo;4000;Banco B;340.6;12 meses;25/01/2024;25/01/2025;4;4%;Prestamo bancario para inversion en microempresa
-2965936506129260;4LO2W;Prestamo;900;Banco B;65.9;14 meses;31/07/2023;31-09-2024;6;4%;Prestamo para tratamiento medico
-2965936506129260;00SDF;Prestamo;7500;Banco A;172.59;48 meses;10/10/2020;10/10/2024;5;5%;Prestamo para inversion en bienes raices
-2965936506129260;ZBD05;Prestamo;400;Banco B;23.11;18 meses;3/05/2024;3/11/2025;3;5%;Prestamo estudiantil
+1601887811361610;IWK37;Prestamo;700;Banco A;21.28;36 meses;9/03/2023;05/03/2026;5;4%;Prestamo estudiantil
+1601887811361610;II6H2;Prestamo;4000;Banco B;371.32;12 meses;25/01/2024;06/01/2025;4;4%;Prestamo bancario para inversion en microempresa
+2965936506129260;4LO2W;Prestamo;900;Banco B;70.91;14 meses;31/07/2023;06/09/2024;6;4%;Prestamo para tratamiento medico
+2965936506129260;00SDF;Prestamo;7500;Banco A;176.51;48 meses;10/10/2020;7/10/2024;5;5%;Prestamo para inversion en bienes raices
+2965936506129260;ZBD05;Prestamo;400;Banco B;101.05;4 meses;3/05/2024;3/09/2024;3;5%;Prestamo estudiantil
 3228311572756470;52PXI;Tarjeta de credito;250;Banco A;21.5;12 meses;7/04/2024;7/04/2025;5;6%;Tarjeta de credito para compras en linea
-3228311572756470;F90PZ;Prestamo;5000;Banco B;175.39;30 meses;8/08/2023;8/02/2026;8;4%;Prestamo para inversion en microempresa
+3228311572756470;F90PZ;Prestamo;5000;Banco B;175.41;30 meses;8/08/2023;9/02/2026;8;4%;Prestamo para inversion en microempresa
 4296667638480960;V0FN3;Tarjeta de credito;720;Banco A;72.99;10 meses;19/03/2024;19/01/2025;3;3%;Tarjeta de credito para gastos medicos
 4296667638480960;L8H9K;Tarjeta de credito;800;Banco A;81.1;10 meses;18/10/2023;18/08/2024;3;3%;Tarjeta de credito para compras diarias
-5164777929507850;1X7AU;Prestamo;2500;Banco B;108.55;24 meses;22/11/2022;22/11/2024;6;4%;Prestamo para adquisicion de equipo
+5164777929507850;1X7AU;Prestamo;2500;Banco B;113.26;24 meses;22/11/2022;6/11/2024;6;4%;Prestamo para adquisicion de equipo
 5164777929507850;75PCW;Tarjeta de credito;500;Banco B;36.6;14 meses;13/11/2023;13/01/2025;5;4%;Tarjeta de credito para gastos de viaje
 5210952712693880;G1J8T;Tarjeta de credito;300;Banco A;37.92;8 meses;14/06/2024;14/12/2024;4;3%;Tarjeta de credito para gastos de entretenimiento
 5210952712693880;0PNP9;Tarjeta de credito;1000;Banco A;101.38;10 meses;12/12/2023;12/09/2024;3;3%;Tarjeta de credito para gastos de viaje
-5868068789428520;4C0DX;Prestamo;800;Banco B;81.84;10 meses;18/02/2024;18/12/2024;4;5%;Prestamo personal para educacion
-5868068789428520;6MBZ5;Prestamo;3500;Banco A;202.19;18 meses;17/02/2023;17/08/2024;2;5%;Prestamo para viaje
-6025081683661330;2JP2Z;Prestamo;400;Banco B;40.74;10 meses;4/04/2024;4/03/2025;4;4%;Prestamo estudiantil
-6025081683661330;0JYA5;Prestamo;4500;Banco A;197.36;24 meses;1/05/2024;1/05/2026;1;5%;Prestamo para inversion en microempresa
-6199586576193850;30ULA;Prestamo;8000;Banco B;350.85;24 meses;2/02/2023;02-02-0204;3;5%;Prestamo para compra de terreno
-6199586576193850;I75IU;Prestamo;400;Banco A;22.93;18 meses;14/05/2023;14/11/2024;2;4%;Prestamo para tratamiento medico
+5868068789428520;4C0DX;Prestamo;800;Banco B;116.44;8 meses;18/02/2024;04/10/2024;4;5%;Prestamo personal para educacion
+5868068789428520;6MBZ5;Prestamo;3500;Banco A;214.05;18 meses;17/02/2023;02/08/2024;2;5%;Prestamo para viaje
+6025081683661330;2JP2Z;Prestamo;400;Banco B;57.91;7 meses;04/04/2024;04/11/2024;4;4%;Prestamo estudiantil
+6025081683661330;0JYA5;Prestamo;4500;Banco A;197.38;24 meses;01/05/2024;04/05/2026;1;5%;Prestamo para inversion en microempresa
+6199586576193850;30ULA;Prestamo;8000;Banco B;350.84;24 meses;02/02/2023;03/02/2025;3;5%;Prestamo para compra de terreno
+6199586576193850;I75IU;Prestamo;400;Banco A;134.86;4 meses;10/05/2024;02/09/2024;2;5%;Prestamo para tratamiento medico
 6785228392750860;ECL68;Tarjeta de credito;420;Banco A;35.76;12 meses;1/06/2024;1/06/2025;3;4%;Tarjeta de credito para gastos de entretenimiento
-6785228392750860;V1JE7;Prestamo;6000;Banco B;260.53;24 meses;18/12/2022;18/12/2024;4;4%;Prestamo para inversion en bienes raices
+6785228392750860;V1JE7;Prestamo;6000;Banco B;271.89;24 meses;18/12/2022;04/12/2024;4;4%;Prestamo para inversion en bienes raices
 6971505768880510;85GOD;Tarjeta de credito;9000;Banco B;261.73;36 meses;3/11/2021;3/11/2024;3;3%;Tarjeta de credito para compras diarias
-6971505768880510;GG1Y4;Prestamo;350;Banco A;59.19;6 meses;5/06/2024;5/12/2024;6;5%;Prestamo estudiantil
-7082910661726750;5W2FK;Prestamo;1100;Banco B;94.16;12 meses;10/10/2023;10/10/2024;6;5%;Prestamo para tratamiento medico
+6971505768880510;GG1Y4;Prestamo;500;Banco A;101.64;6 meses;09/05/2024;06/11/2024;6;5%;Prestamo estudiantil
+7082910661726750;5W2FK;Prestamo;1100;Banco B;102.88;12 meses;10/10/2023;07/10/2024;6;5%;Prestamo para tratamiento medico
 7082910661726750;7NF5P;Tarjeta de credito;400;Banco B;50.56;8 meses;9/01/2024;9/09/2024;4;3%;Tarjeta de credito para gastos medicos
 732519654199285;JYT69;Tarjeta de credito;350;Banco B;59.01;6 meses;3/03/2024;3/09/2024;3;4%;Tarjeta de credito para gastos de emergencia
-732519654199285;J7AA0;Prestamo;4000;Banco A;118.08;36 meses;1/11/2023;1/11/2026;2;4%;Prestamo para gastos de viaje de trabajo
-7357116081269630;B37AX;Prestamo;600;Banco B;61.11;10 meses;15/06/2024;15/04/2023;5;4%;Prestamo personal para educacion
-7357116081269630;D0LE9;Prestamo;700;Banco A;118.37;6 meses;2/02/2024;2/08/2024;3;4%;Prestamo para tratamiento medico
-7429816801221469;0K9YV;Prestamo;2000;Banco A;147.34;14 meses;14/03/2024;14/05/2025;6;5%;Prestamo para viaje
-7429816801221469;RGX43;Prestamo;1200;Banco A;87.87;14 meses;12/09/2022;12/09/2024;3;4%;Prestamo para adquisicion de equipo
-7656489079606510;4MR5B;Prestamo;800;Banco B;81.48;10 meses;1/09/2023;1/07/2024;5;4%;Prestamo estudiantil
-7656489079606510;9O8XQ;Prestamo;9500;Banco B;333.25;30 meses;13/06/2024;13/12/2026;6;4%;Prestamo para inversion en bienes raices
+732519654199285;J7AA0;Prestamo;4000;Banco A;173.7024 meses;01/11/2023;03/11/2025;2;4%;Prestamo para gastos de viaje de trabajo
+7357116081269630;B37AX;Prestamo;600;Banco B;67.94;10 meses;15/06/2024;07/04/2025;5;4%;Prestamo personal para educacion
+7357116081269630;D0LE9;Prestamo;700;Banco A;118.03;6 meses;02/02/2024;05/08/2024;3;4%;Prestamo para tratamiento medico
+7429816801221460;0K9YV;Prestamo;2000;Banco A;158.84;14 meses;14/03/2024;06/05/2025;6;5%;Prestamo para viaje
+7429816801221460;RGX43;Prestamo;1200;Banco A;94.61;14 meses;21/08/2023;03/10/2024;3;4%;Prestamo para adquisicion de equipo
+7656489079606510;4MR5B;Prestamo;800;Banco B;81.51;10 meses;01/09/2023;05/07/2024;5;4%;Prestamo estudiantil
+7656489079606510;9O8XQ;Prestamo;9500;Banco B;345.06;30 meses;13/06/2024;07/12/2026;6;4%;Prestamo para inversion en bienes raices
 7656489079606510;79WOO;Tarjeta de credito;400;Banco A;50.38;8 meses;11/05/2024;11/01/2025;4;2%;Tarjeta de credito para gastos de entretenimiento
-7731525580133080;1JR3F;Prestamo;800;Banco B;115.82;7 meses;3/05/2024;3/12/2024;4;4%;Prestamo estudiantil
+7731525580133080;1JR3F;Prestamo;800;Banco B;115.83;7 meses;03/05/2024;04/12/2024;4;4%;Prestamo estudiantil
 7731525580133080;75VMU;Tarjeta de credito;500;Banco A;31.92;16 meses;8/03/2024;8/07/2025;6;3%;Tarjeta de credito para gastos de entretenimiento
-860114305133116;R90VK;Prestamo;5000;Banco B;286.64;18 meses;4/01/2024;4/07/2025;4;4%;Prestamo para compra de terreno
+860114305133116;R90VK;Prestamo;5000;Banco B;286.63;18 meses;4/01/2024;4/07/2025;4;4%;Prestamo para compra de terreno
 860114305133116;TN98F;Tarjeta de credito;450;Banco A;25.6;18 meses;4/10/2023;4/04/2025;5;3%;Tarjeta de credito para compras en linea
-860114305133116;9GT1B;Prestamo;300;Banco A;75.79;4 meses;9/05/2024;9/09/2024;3;5%;Prestamo para pago de impuestos
+860114305133116;9GT1B;Prestamo;300;Banco A;101.18;4 meses;9/05/2024;03/09/2024;3;5%;Prestamo para pago de impuestos
 9094274346889370;52MSJ;Tarjeta de credito;500;Banco B;28.66;18 meses;4/02/2024;4/08/2025;5;4%;Tarjeta de credito para gastos medicos
-9094274346889370;RT0S1;Prestamo;1400;Banco B;143.22;10 meses;14/01/2024;14/11/2024;4;5%;Prestamo para remodelacion del hogar
+9094274346889370;RT0S1;Prestamo;1400;Banco B;159.23;10 meses;14/01/2024;04/11/2024;4;5%;Prestamo para remodelacion del hogar
 9330784988638350;JM8C7;Tarjeta de credito;350;Banco A;44.24;8 meses;15/03/2024;15/11/2024;15;3%;Tarjeta de credito para gastos de entretenimiento
 9330784988638350;93OSG;Tarjeta de credito;300;Banco A;50.44;6 meses;7/06/2024;7/12/2024;5;3%;Tarjeta de credito para compras diarias
 9331882144601200;N05YS;Tarjeta de credito;400;Banco B;67.25;6 meses;7/05/2024;7/12/2024;5;3%;Tarjeta de credito para compras diarias
-9331882144601200;Y4OQ8;Prestamo;2000;Banco B;225.95;9 meses;12/06/2024;12/03/2025;3;4%;Prestamo bancario para inversion en microempresa
-9480126710145420;8OS7S;Prestamo;600;Banco A;121.21;5 meses;14/05/2024;15/10/2024;15;4%;Prestamo para adquisicion de equipo
-9480126710145420;1R8RE;Prestamo;7500;Banco B;328.93;24 meses;15/06/2024;15/06/2026;15;5%;Prestamo para inversion en bienes raices
-9643242507151872;XPJ76;Prestamo;400;Banco B;134.44;3 meses;18/05/2024;18/08/2024;14;5%;Prestamo para tratamiento medico
-9643242507151872;B6QE0;Prestamo;3500;Banco A;200.65;18 meses;4/02/2023;4/08/2024;5;4%;Prestamo para viaje
-9705194980950050;TY5E5;Prestamo;600;Banco B;121.21;5 meses;15/06/2024;15/11/2024;15;4%;Prestamo para adquisicion de equipo
-9705194980950050;V8GT9;Prestamo;7600;Banco B;284.71;28 meses;12/02/2024;12/06/2026;4;4%;Prestamo para compra de terreno
-9904912393617160;13WIW;Prestamo;600;Banco A;121.21;5 meses;9/05/2024;9/10/2024;5;4%;Prestamo para viaje
-9904912393617160;C0J7L;Prestamo;4380;Banco A;129.29;36 meses;10/10/2023;10/10/2026;5;4%;Prestamo bancario para inversion en microempresa
-9904912393617160;BWS02;Prestamo;300;Banco B;100.67;3 meses;9/05/2024;9/08/2024;3;4%;Prestamo personal para educacion
+9331882144601200;Y4OQ8;Prestamo;2000;Banco B;254.37;9 meses;12/06/2024;3/03/2025;3;4%;Prestamo bancario para inversion en microempresa
+9480126710145420;8OS7S;Prestamo;600;Banco A;121.23;5 meses;14/05/2024;15/10/2024;15;4%;Prestamo para adquisicion de equipo
+9480126710145420;1R8RE;Prestamo;7500;Banco B;328.92;24 meses;15/06/2024;15/06/2026;15;5%;Prestamo para inversion en bienes raices
+9643242507151870;XPJ76;Prestamo;400;Banco B;201.99;3 meses;18/05/2024;14/08/2024;14;5%;Prestamo para tratamiento medico
+9643242507151870;B6QE0;Prestamo;3500;Banco A;200.63;18 meses;4/02/2023;5/08/2024;5;4%;Prestamo para viaje
+9705194980950050;TY5E5;Prestamo;600;Banco B;121.20;5 meses;15/06/2024;15/11/2024;15;4%;Prestamo para adquisicion de equipo
+9705194980950050;V8GT9;Prestamo;7600;Banco B;295.47;28 meses;12/02/2024;4/06/2026;4;4%;Prestamo para compra de terreno
+9904912393617160;13WIW;Prestamo;600;Banco A;151.70;5 meses;9/05/2024;7/10/2024;5;4%;Prestamo para viaje
+9904912393617160;C0J7L;Prestamo;4380;Banco A;133.15;36 meses;10/10/2023;5/10/2026;5;4%;Prestamo bancario para inversion en microempresa
+9904912393617160;BWS02;Prestamo;300;Banco B;151.17;3 meses;9/05/2024;5/08/2024;3;4%;Prestamo personal para educacion

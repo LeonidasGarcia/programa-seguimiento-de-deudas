@@ -54,6 +54,6 @@ void menuPrincipal (string rutaArchivo, vector <string> USUARIO) {
         }
     }
     
-    cout << "Saliendo de Deuda Cero, nos vemos luego" << endl;
+    cout << endl <<  "Saliendo de Deuda Cero, nos vemos luego" << endl;
     system("pause");
 }

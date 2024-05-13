@@ -44,7 +44,7 @@ vector <string> login () {
             system("CLS");
             return USUARIO;
         } else {
-            cout << "Acceso denegado, intentelo de nuevo porfavor" << endl;
+            cout << endl << "Acceso denegado, intentelo de nuevo porfavor" << endl;
             system("PAUSE");
             system("CLS");
         }
